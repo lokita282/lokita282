@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lokita Varma 👋</h1>
+<h1 align="center">Hi, I'm Lokita 👋</h1>
 <h3 align="center">Passionate about learning new things!</h3>
 <br>
 
