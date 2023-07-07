@@ -5,9 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2343459/screenshots/14393709/media/1f76b38bfee6b1282cf8a1ec2b773f9c.gif">
 <p align="left">
   
-- 🌱 I’m currently learning: **MERN Stack development and AI, ML**
+- 🌱  **MERN Stack and AI/ML Developer**
 
-- 📖 2022 Goals: **Contribute more to Open Source projects**
+- 🥇 **American Express Makeathon 2023 Winner**
+
+- 🥇 **Google Girl Hackathon 2022 Winner**
+
+- 📖 2023 Goals: **Contribute more to Open Source projects**
 
 - 📫 How to reach me: **lokitavarma282@gmail.com**
 
